@@ -45,7 +45,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/event-management-system.git
+git clone https://github.com/fazal/event-management-system.git
 Install dependencies for both client and server:
 
 bash
